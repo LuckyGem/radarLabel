@@ -1,0 +1,24 @@
+{
+  "labels": [
+    "raining",
+    "not raining",
+    "back ground"
+  ],
+  "imageURLs": [
+    "data/images2/1.jpg",
+    "data/images2/2.jpg",
+    "data/images2/3.jpg",
+    "data/images2/4.jpg",
+	"data/images2/5.jpg",
+	"data/images2/6.jpg"
+	
+  ],
+  "annotationURLs": [
+    "data/annotations2/1.png",
+    "data/annotations2/2.png”,
+    "data/annotations2/3.png",
+    "data/annotations2/4.png”,
+    "data/annotations2/5.png”,
+    "data/annotations2/6.png"
+     ]
+}

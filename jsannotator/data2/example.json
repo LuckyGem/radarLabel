@@ -1,0 +1,28 @@
+{
+  "labels": [
+    "raining",
+    "not raining",
+    "back ground"
+  ],
+  "imageURLs": [
+    "data2/images/KDOX101.jpg",
+    "data2/images/2.jpg",
+    "data2/images/3.jpg",
+    "data2/images/4.jpg",
+	"data2/images/5.jpg",
+	"data2/images/6.jpg",
+	"data2/images/7.jpg",
+	"data2/images/8.jpg"
+	
+  ],
+  "annotationURLs": [
+    "data2/annotations/KDOX101.png",
+    "data2/annotations/2.png",
+    "data2/annotations/3.png",
+    "data2/annotations/4.png",
+    "data2/annotations/5.png",
+    "data2/annotations/6.png",
+    "data2/annotations/7.png",
+    "data2/annotations/8.png"
+  ]
+}

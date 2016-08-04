@@ -1,0 +1,16 @@
+{
+  "labels": [
+    "raining",
+    "not raining",
+    "back ground"
+  ],
+  "imageURLs": [
+    "dataStudent1/images/KDOX101.jpg",
+    "dataStudent1/images/2.jpg"
+	
+  ],
+  "annotationURLs": [
+    "dataStudent1/annotations/KDOX101.png",
+    "dataStudent1/annotations/2.png"
+  ]
+}

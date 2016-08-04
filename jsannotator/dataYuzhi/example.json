@@ -1,0 +1,18 @@
+{
+  "labels": [
+    "raining",
+    "not raining",
+    "back ground"
+  ],
+  "imageURLs": [
+    "dataYuzhi/images/KDOX101.jpg",
+    "dataYuzhi/images/2.jpg",
+    "dataYuzhi/images/3.jpg"
+	
+  ],
+  "annotationURLs": [
+    "dataYuzhi/annotations/KDOX101.png",
+    "dataYuzhi/annotations/2.png",
+    "dataYuzhi/annotations/3.png"
+  ]
+}

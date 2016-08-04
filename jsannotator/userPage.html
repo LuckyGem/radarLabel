@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function confirmUser() {
+ 	var userName = document.getElementById("myUser").value;
+ 	var user = "&user="+userName;
+ 	//var direct = "http://0.0.0.0:8080/index.html?view=index"+user;
+ 	var direct ="http://shannon.cs.umass.edu/sheldon/birdcast/js-segment-annotator/?view=index"+user;
+    window.location.href=direct;
+    
+}
+
+</script>
+</head>
+<body>
+
+<form>
+<select id="myUser">
+  <option value = "Dan">Dan</option>
+  <option value = "Yuzhi">Yuzhi</option>
+  <option value = "student 1">Student 1</option>
+  <option value = "student 2">Student 2</option>
+</select>
+<br><br>
+<input type="button" onclick="confirmUser()" value="Select User">
+</form>
+
+</body>
+</html>
